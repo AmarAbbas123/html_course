@@ -1,0 +1,12 @@
+HTML : Hyper Text Markup Language
+HTML is the code that is used to structure a web page and its content.
+The component used to design the structure of website are called HTML Tags.
+Content and HTML tags are called HTML Element
+
+Rendering: the process of converting code into a visual representation that can be displayed on a screen
+Parsing :code not render by browser
+
+<Body> : Body contains data rendered by the browser.
+<!DOCTYPE html> : tells browser you are using HTML
+HTML Comment : Part of code that should not been parsed. <!-- Comment -->
+Attribute :add more information to tag.
