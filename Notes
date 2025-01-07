@@ -10,3 +10,12 @@ Parsing :code not render by browser
 <!DOCTYPE html> : tells browser you are using HTML
 HTML Comment : Part of code that should not been parsed. <!-- Comment -->
 Attribute :add more information to tag.
+
+Semantic tag :A semantic element clearly describes its meaning to both the browser and the developer.
+Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
+Examples of semantic elements:<header> <footer> <form>, <table>, and <article> - Clearly defines its content.
+Target : The target attribute specifies where to open the linked document
+Block Element : Take full width of page
+Inline Element : Take space which required for content
+Div : Like a container take full width of page block element
+Span : inline element take width as per size
